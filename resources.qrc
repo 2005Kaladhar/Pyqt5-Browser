@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>cil-location-pin.png</file>
+    <file>cil-paper-plane.png</file>
+    <file>cil-reload.png</file>
+    <file>leftmenu.jpg</file>
+    <file>1775592.jpg</file>
+    <file>cil-arrow-circle-left.png</file>
+    <file>cil-arrow-circle-right.png</file>
+    <file>cil-envelope-closed.png</file>
+    <file>cil-home.png</file>
+    <file>cil-settings.png</file>
+    <file>cil-user.png</file>
+    <file>browericons/ajajajajaa.jpg</file>
+    <file>user2.png</file>
+    <file>ThunderBolt Logo flipped.png</file>
+  </qresource>
+</RCC>
